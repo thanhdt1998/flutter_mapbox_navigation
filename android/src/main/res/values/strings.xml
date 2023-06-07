@@ -2,4 +2,5 @@
     <string name="noTokenDialogTitle">Error: no mapbox access token</string>
     <string name="noTokenDialogBody">Please put your mapbox access token in res/values/mapbox_access_token.xml</string>
     <string name="was_navigation_stopped">false</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2VubmQiLCJhIjoiY2tkcmdzbDB4MDhzcDJ6bzdoOXNwazduMSJ9.in-0A1ZX6yzIMtnJcLdcRw</string>
 </resources>
