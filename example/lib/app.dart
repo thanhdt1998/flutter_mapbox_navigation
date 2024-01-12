@@ -77,6 +77,7 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
     _navigationOption.simulateRoute = true;
     //_navigationOption.initialLatitude = 36.1175275;
     //_navigationOption.initialLongitude = -115.1839524;
+
     MapBoxNavigation.instance.registerRouteEventListener(_onEmbeddedRouteEvent);
     MapBoxNavigation.instance.setDefaultOptions(_navigationOption);
 
